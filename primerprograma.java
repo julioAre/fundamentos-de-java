@@ -9,5 +9,8 @@
  * @author JulioArevalo
  */
 public class primerprograma {
-    
+    public static void main (String args [])
+    {
+        System.out.println("BIENVENIDOS \n a \n la PROGRAMACION \n EN JAVA");
+    }
 }
