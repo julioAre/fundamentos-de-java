@@ -13,5 +13,7 @@ public class primerprograma {
     {
         System.out.println("BIENVENIDOS \n a \n la PROGRAMACION \n EN JAVA");
         System.out.println("soy Fernando Zatizabal");
+        System.out.println("Julio Arevalo");
+        System.out.println("PRUEBA \n NETBEANS \n A \n GITHUB");
     }
 }
